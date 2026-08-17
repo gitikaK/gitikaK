@@ -1,6 +1,6 @@
 # Hi, I'm Gitika 👋
 
-🚀 BTech IT sophomore | Aspiring Data Analyst & Web Developer
+🚀 BTech IT Pre-Final | Aspiring Web Developer
 
 ## 🌱 What I’m working on
 - Excel Data Projects
