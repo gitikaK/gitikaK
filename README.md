@@ -3,7 +3,8 @@
 🚀 BTech IT Pre-Final | Aspiring Web Developer
 
 ## 🌱 What I’m working on
-- Excel Data Projects
+- Python Projects
+- DSA grinding
 - Interactive Web Apps
 - AND THE LIST GOES ON!
 
